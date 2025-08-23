@@ -6,33 +6,33 @@
 
 
 
-This repository contains code related to the Deep Learning course by 
+This repository contains code related to the Deep Learning course by
 
 Mike X. Cohen on Udemy:
 
 
 
-https://www.udemy.com/course/deeplearning\_x
+\[A deep understanding of deep learning (with Python intro)](https://www.udemy.com/course/deeplearning\_x)
 
 
 
-The majority of the "base" code is adapted from material developed by the 
+The majority of the "base" code is adapted from material developed by the
 
-course instructor. I have made minor modifications to experiment with it. 
-
-
-
-The "exercises" and especially the "code challenges" sections contain more 
-
-of my own contributions, where I added creative input beyond the provided 
-
-material. 
+course instructor. I have made minor modifications to experiment with it.
 
 
 
-If you are exploring this repository out of an interest in deep learning, 
+The "exercises" and especially the "code challenges" sections contain more
 
-I highly recommend the course itself, it is an excellent resource that 
+of my own contributions, where I added creative input beyond the provided
+
+material.
+
+
+
+If you are exploring this repository out of an interest in deep learning,
+
+I highly recommend the course itself, it is an excellent resource that
 
 provides both solid theoretical and practical foundations.
 
@@ -81,6 +81,4 @@ provides both solid theoretical and practical foundations.
 \- Section 23 : \[...]
 
 \- Section 24 : \[...]
-
-
 
