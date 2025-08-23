@@ -12,7 +12,7 @@ The "exercises" and especially the "code challenges" sections contain more of my
 
 If you are exploring this repository out of an interest in deep learning, I highly recommend the course itself, it is an excellent resource that provides both solid theoretical and practical foundations.
 
-## Structure (Sec_xx_)
+## Structure
 
 - Section 05 : Math, numpy, and PyTorch
 - Section 06 : Gradient descent
