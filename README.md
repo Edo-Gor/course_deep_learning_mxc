@@ -14,7 +14,7 @@ If you are exploring this repository out of an interest in deep learning, I high
 
 ## Structure
 
-- Section 05 : Math, numpy, and PyTorch
+- Section 05 : Math, NumPy, and PyTorch
 - Section 06 : Gradient descent
 - Section 07 : Artificial neural networks
 - Section 08 : Overfitting and cross-valisation
@@ -24,7 +24,7 @@ If you are exploring this repository out of an interest in deep learning, I high
 - Section 12 : More on data
 - Section 13 : Measuring model performance
 - Section 14 : FFN milestone projects
-- Section 15 : [...]
+- Section 15 : Weight inits and investigations
 - Section 16 : [...]
 - Section 17 : [...]
 - Section 18 : [...]
