@@ -10,7 +10,7 @@ The majority of the "base" code is adapted from material developed by the course
 
 The "exercise" and especially the "code challenge" and "project" files contain more of my own contributions, where I added creative input beyond the provided material.
 
-If you are exploring this repository out of an interest in deep learning, I highly recommend the course itself, it is an excellent resource that provides both solid theoretical and practical foundations.
+If you are exploring this repository out of an interest in deep learning, the course itself is highly recommend; it is a great resource that provides both solid theoretical and practical foundations.
 
 ## Structure
 
