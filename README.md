@@ -8,7 +8,7 @@ This repository contains code related to the Deep Learning course by Mike X. Coh
 
 The majority of the "base" code is adapted from material developed by the course instructor. I have made minor modifications to experiment with it.
 
-The "exercise" and especially the "code challenge" and "project" files contain more of my own contributions, where I added creative input beyond the provided material.
+The exercises in the "code challenge" and "project" files contain more of my own contributions, where I added creative input beyond the provided material.
 
 If you are exploring this repository out of an interest in deep learning, the course itself is highly recommend; it is a great resource that provides both solid theoretical and practical foundations.
 
