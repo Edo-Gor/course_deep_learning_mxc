@@ -25,7 +25,7 @@ If you are exploring this repository out of an interest in deep learning, the co
 - Section 13 : Measuring model performance
 - Section 14 : FFN milestone projects
 - Section 15 : Weight inits and investigations
-- Section 16 : [...]
+- Section 16 : Autoencoders
 - Section 17 : [...]
 - Section 18 : [...]
 - Section 19 : [...]
