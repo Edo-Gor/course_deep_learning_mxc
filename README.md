@@ -26,7 +26,7 @@ If you are exploring this repository out of an interest in deep learning, the co
 - Section 14 : FFN milestone projects
 - Section 15 : Weight inits and investigations
 - Section 16 : Autoencoders
-- Section 17 : [...]
+- Section 17 : Convolution and transformations
 - Section 18 : [...]
 - Section 19 : [...]
 - Section 20 : [...]
