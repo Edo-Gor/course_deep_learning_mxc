@@ -29,7 +29,7 @@ If you are exploring this repository out of an interest in deep learning, the co
 - Section 17 : Running models on a GPU
 - Section 18 : Convolution and transformations
 - Section 19 : Understand and design CNNs
-- Section 20 : [...]
+- Section 20 : CNN milestone projects
 - Section 21 : [...]
 - Section 22 : [...]
 - Section 23 : [...]
