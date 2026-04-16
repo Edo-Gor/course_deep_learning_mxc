@@ -31,6 +31,6 @@ If you are exploring this repository out of an interest in deep learning, the co
 - Section 19 : Understand and design CNNs
 - Section 20 : CNN milestone projects
 - Section 21 : Transfer learning
-- Section 22 : [...]
+- Section 22 : Style transfer
 - Section 23 : [...]
 - Section 24 : [...]
