@@ -33,4 +33,4 @@ If you are exploring this repository out of an interest in deep learning, the co
 - Section 21 : Transfer learning
 - Section 22 : Style transfer
 - Section 23 : Generative adversarial networks
-- Section 24 : [...]
+- Section 24 : Recurrent neural networks (and GRU/LSTM)
